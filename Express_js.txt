@@ -1,0 +1,12 @@
+-- Documentation Website - Express.js --
+
+npm init - package.json
+
+npm i express - package-lock.json
+
+app.get - to handle get request 
+
+res.send - sending response
+
+path parameters - req.params :-> use to handle billions of request like username, id to 
+				avoid making seperate route for every request of page 
