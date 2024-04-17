@@ -10,3 +10,15 @@ Codes & images, a complete guide
 ![6 Query_Strings-code](https://github.com/affancoder/Express-Js/assets/113276865/7d07bae2-43e0-4d68-aaa0-c57d998d5e49)
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://affancoder.github.io/Portfolio_Website/)
+
+📫 How to reach me:
+
+Email: affanasgar8@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mdaffanasghar/
+
+Instagram: https://www.instagram.com/mr_affan15/
+
+GitHub: https://github.com/affancoder
